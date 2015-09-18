@@ -12,4 +12,4 @@ looking at the source code itself.
 
 6. The example project will be a game that is based on the upcoming Vulcan graphics api.  The point of project is to test and implement core features of the the api to basically see what it is capable of.  As a group we have chosen an MIT license for any sort of example project.  It is chosen because we appreciate the permissiveness and simplicity of the license for a project that will be mainly for fun and learning.
 
-7. 
+7. For a company a BSD license is probably favorable because that allows company to freely distribute or borrow from other BSD license software without having to worry about potentially crippling legal litigation.  It guarantees quick opensource development improvement to project that has the right to be commercially distributed as well. GPL is probably best for developers since it requires source to be disclosed along with licensing. Changes to the source must also be stated so that ensures that the original developers are given credit for their work and that changes are given credit to the changers.  
