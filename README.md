@@ -10,4 +10,6 @@ looking at the source code itself.
 
 5. Microsoft .NET is software framework for Windows that alllows language interpolarity.  It lets languages use code from other languages.  It has a large class library known as FCL and programmers will build programs by combining their source code with .NET and other librarys.  Because of concerns over opensource implementation in regard to Microsoft software patents Microsoft opted to adopt and opensource software project model.  An MIT license was denoted to the project which basically lets any developer of .NET do what they want, like distribute, change, or sell software based on .NET as long as they include the MIT license and provide attribution back to microsoft.  The developer is then free from potential Microsoft litigation.
 
-6. 
+6. The example project will be a game that is based on the upcoming Vulcan graphics api.  The point of project is to test and implement core features of the the api to basically see what it is capable of.  As a group we have chosen an MIT license for any sort of example project.  It is chosen because we appreciate the permissiveness and simplicity of the license for a project that will be mainly for fun and learning.
+
+7. 
